@@ -1,0 +1,40 @@
+.OuterContainer{
+    background-color: aqua;
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+}
+.TopContainer{
+    width: 100vw;
+    height: 20vh;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+.MiddleContainer{
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+}
+.FirstMiddleContainer{
+    width: 100vw;
+    height: 50vh;
+    display: flex;
+    flex-direction: row;
+}
+.card{
+    width: 20rem;
+    height: 30rem;
+    background-color:greenyellow;
+    box-shadow: 10px 10px 10px green;
+}
+
+.Left{
+    width: 1rem;
+}
+
+
+
